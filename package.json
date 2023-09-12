@@ -1,5 +1,5 @@
 {
-  "name": "destack-workspace",
+  "name": "destack",
   "version": "1.0.0",
   "workspaces": [
     "./lib",
