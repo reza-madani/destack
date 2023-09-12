@@ -21,6 +21,7 @@ const themes = [
   { name: 'Meraki UI', folder: 'meraki-light' },
   { name: 'Preline', folder: 'preline' },
   { name: 'Flowbite', folder: 'flowbite' },
+  { name: 'Kian', folder: 'kian' },
 ]
 
 interface ComponentInterface {

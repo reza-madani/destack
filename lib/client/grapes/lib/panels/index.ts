@@ -27,6 +27,7 @@ const themeList: any[] = [
   { name: 'Meraki UI', folder: 'meraki-light', url: merakiLogo },
   { name: 'Preline', folder: 'preline', url: prelineLogo },
   { name: 'Flowbite', folder: 'flowbite', url: flowbiteLogo },
+  { name: 'Kian', folder: 'kian', url: flowbiteLogo },
 ]
 
 const colorRegex = new RegExp(
