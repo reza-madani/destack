@@ -8,6 +8,7 @@
     "./dev/react-project",
     "./scripts"
   ],
+  "private": true,
   "scripts": {
     "start": "npm run start:next",
     "start:next": "npm start -w dev/nextjs-project",
